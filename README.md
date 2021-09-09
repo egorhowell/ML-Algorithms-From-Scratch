@@ -10,4 +10,4 @@ This will be an ongoing project and I am hoping to cover the following:
 - K-Nearest Neighboor :heavy_check_mark:
 - Naive Bayes
 - K-Means
-- Neural Network
+- Neural Network :heavy_check_mark:
